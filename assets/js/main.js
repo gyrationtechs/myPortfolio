@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
-        "https://ndmediadesigns.com/feed",
+        "http://feeds.feedburner.com/NdMediaDesignsBlogFeeds",
         
         {
         // how many entries do you want?
